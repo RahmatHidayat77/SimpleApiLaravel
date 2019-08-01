@@ -51,6 +51,7 @@ MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 ```
+- run `composer install`
 
 - run `php artisan migrate`
 
