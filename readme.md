@@ -58,4 +58,4 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 - run `php artisan serve`
 
-- testing API with Postman
+- testing API with Postman --> [Postman Collection](https://app.getpostman.com/join-team?invite_code=a6f6b154785ad83a3d0311528ed6ed51)
